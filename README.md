@@ -9,3 +9,4 @@ Main Idea of this project:
 4. Matching the punctuation and English words (or numeric numbers) between both versions of documents.
 5. Done!
 
+*The ipynb file consists Chinese remarks while the py file is annotated in English.
